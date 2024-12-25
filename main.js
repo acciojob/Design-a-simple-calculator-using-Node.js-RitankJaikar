@@ -78,4 +78,4 @@ function calculator() {
 }
 
 // Invoke the calculator function to start the program
-calculator();
+calculator(); 
